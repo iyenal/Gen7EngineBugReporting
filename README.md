@@ -10,7 +10,7 @@ Please read the following instructions to contribute.
 Head over there: https://dev.azure.com/IDStudioTechnologies/Gen7%20Engine/_workitems
 ![alt text](workitems.png)
 
-*To view all the Work Items even the completed ones, enable "Show Completed Work Items" on the right top options menu.*
+*To view all the Work Items even completed ones, enable "Show Completed Work Items" on the right top options menu.*
 
 ## How to submit issues, bugs and features?
 
