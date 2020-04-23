@@ -19,15 +19,18 @@ Thanks to Zapier Automated Tasks, all the GitHub issues are submitted on the Azu
 ### Submit an issue
 
 To submit an issue, please add [Issue] at first of your title, or in your description.
+![alt text](issues.png)
 
 
 ### Submit a feature idea
 
 To submit a feature, please add [Feature] at first of your title, or in your description.
+![alt text](feature.png)
 
 ### Submit a bug
 
 To submit a bug, no special text tag is needed. However please make attention that your bug is an actual bug (it should behave like that but it doesn't) and not an issue (I can't do that because it's missing), and add in description the Repro Steps.
+![alt text](bugs.png)
 
 
 ## Statistics from DevOps
