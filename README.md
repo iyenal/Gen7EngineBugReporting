@@ -4,6 +4,9 @@
 This repository is dedicated for Gen7 Engine bug reports. I use Azure DevOps to keep track of issues (as Work Items) as it's more practical and easier to organize, so this GitHub repository is mirrored to the DevOps Boards (using Zapier).
 Please read the following instructions to contribute.
 
+Get Gen7: https://gen7.idpowered.com
+Docs: https://iyenal.github.io/gen7engine-docs/
+
 
 ## How to view submitted issues, bugs and features?
 
