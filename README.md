@@ -5,6 +5,7 @@ This repository is dedicated for Gen7 Engine bug reports. I use Azure DevOps to 
 Please read the following instructions to contribute.
 
 Get Gen7: https://gen7.idpowered.com
+
 Docs: https://iyenal.github.io/gen7engine-docs/
 
 
