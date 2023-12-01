@@ -1,6 +1,6 @@
 ![alt text](logo.png)
 
-# Gen7 Engine Bug Reporting
+# Gen7 Engine (also Leap) Bug Reporting
 This repository is dedicated for Gen7 Engine bug reports. I use Azure DevOps to keep track of issues (as Work Items) as it's more practical and easier to organize, so this GitHub repository is mirrored to the DevOps Boards (using Zapier).
 Please read the following instructions to contribute.
 
